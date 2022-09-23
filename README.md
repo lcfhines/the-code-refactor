@@ -7,7 +7,9 @@ Various changes were made to the existing code to optimize search engines. The s
 The image elements contain accessible alt attributes. The heading attributes fall in sequential order and the title element contains a concise and descriptive title. 
 
 Despite the changes to the existing code, the web application's appearance and functionality have not changed as shown in the below screenshot.
-![Screenshot] (Screen Shot 2022-09-23 at 10.58.31 AM.png)
+<div align="left">
+  <img src= "Screen Shot 2022-09-23 at 10.58.31 AM.png" width="400px"</img>
+  </div>
 
 ### Link
 The deployed application can be found at the following link: https://lcfhines.github.io/the-code-refactor/
